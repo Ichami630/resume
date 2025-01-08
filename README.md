@@ -40,7 +40,7 @@ Full-stack web developer with 1 year of experience building scalable and respons
 ### French: Intermediate
 ***
 ## CONTACT
-Address: Buea, SW
-Phone: +237 653595434
-Email: brandonichami@gmail.com
+Address: Buea, SW.
+Phone: +237 653595434.
+Email: brandonichami@gmail.com.
 WWW: [https://brandonichami.com](https://brandonichami.com)
